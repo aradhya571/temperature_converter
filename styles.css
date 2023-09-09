@@ -1,0 +1,57 @@
+
+.my-image{
+    border-radius: 50%;
+}
+
+.langimg{
+    border-radius: 50%;
+}
+.text-body-emphasis {
+    --bs-text-opacity: 1;
+    color: #f8f9fa!important;
+}
+
+.calc-container {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 50px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+h1 {
+    margin-top: 0;
+}
+
+input {
+    width: 30%;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.background-container1{
+    background-image: url(./images/1.jpg);
+}
+
+.btn{
+    background-color: cadetblue;
+    color:white;
+}
+
+.btn-primary {
+    --bs-btn-color: #fff;
+    --bs-btn-bg: cadetblue;
+    --bs-btn-border-color: lightblue;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: lightblue;
+    --bs-btn-hover-border-color: lightblue;
+    --bs-btn-focus-shadow-rgb: 49,132,253;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: lightblue;
+    --bs-btn-active-border-color: lightblue;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #fff;
+
+}
